@@ -276,11 +276,6 @@ Based on the dashboard analysis, here are the key business takeaways:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-The **Superstore dataset** is a sample dataset widely used for educational purposes and is originally provided by **Tableau Software**.
 
 ---
 
@@ -288,6 +283,6 @@ The **Superstore dataset** is a sample dataset widely used for educational purpo
 
 *If you found this project helpful, please consider giving it a ⭐ star on GitHub!*
 
-**Made with ❤️ and Microsoft Power BI**
+**Made Microsoft Power BI**
 
 </div>
