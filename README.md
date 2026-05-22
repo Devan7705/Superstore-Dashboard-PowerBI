@@ -266,7 +266,7 @@ Based on the dashboard analysis, here are the key business takeaways:
 
 <div align="center">
 
-**Developed by [Your Name]**
+**Developed by Devan Patel**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
